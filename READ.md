@@ -1,0 +1,19 @@
+# Microsoft Power BI Project :
+# 2. HR Analytics Dashboard
+
+This contains the Project dealt in Microsoft Power BI to visualize the data using the dataset of HR Analytics dataset.
+It involved cleaning, processing, analysis and dashboard creation in Microsoft Power BI.
+
+# From the dashboard, we can derive the following insights:
+- We can see in Attrition by Salary slab, Employees who had  salary of about 5K, were the most to leave the company whereas the average salary in that company was 6.5K.
+- People between the age group ( 26-35) contributed to higher attrition rate than other age groups.
+- Based on Gender, Men (count: 140) are twice more likely to leave the company compared to women (count: 79).
+- Based on Attrition by Year, Employees are more likely to leave after an year in the company.
+- When we take Job role Vs Job Satisfaction matrix into consideration, we can see that Laboratory Technician( 20 people have given score of 1), 
+  Sales Executive(16 people have given score of 1) and Research Scientist(13 people have given score of 1) were least satisfied with their job role.
+  Hence, we can observe that attrition rate in these job roles are high.
+  
+  
+# Final Conclusion
+More benefit, salaries could be slighty increased for the Job title of Laboratory Technician, Sales Executive and Research Scientist to decrease the attrition rate.
+Reason behind getting least scores in job satisfaction for those roles must be found, whether those scores are related on salary or other reasons and based on that further steps can be implemented by the company.
